@@ -9,7 +9,6 @@ A planilha principal organiza os diferentes tipos de FIIs (Papel, Tijolo, Híbri
 
 - `projeto DIO.xlsx`: planilha principal com as alocações por perfil de investidor.
 - `images/`: contém capturas de tela e gráficos com as distribuições de cada perfil.
-- `docs/`: materiais complementares como justificativas ou explicações.
 
 
 ## 📊 Tipos de FIIs Considerados
